@@ -1,7 +1,9 @@
 # 💫 About Me:
-**Frontend Magic:** Building modern, responsive, and highly interactive web applications using **React** and **JavaScript**.<br>
-**Servers & Infrastructure:** Configuring, managing, and securing Linux servers, whether they are VPS instances, cloud platforms, or home labs.<br>
-**Automation & CI/CD:** Living by the rule: *"If you have to do it twice, automate it."
+Proxmox ❤️<br>
+
+**Frontend Magic:** Modern, responsive, and highly interactive web applications using **React** and **JavaScript**.<br>
+**Servers & Infrastructure:** Configuring and managing Linux and Windows servers, whether they are VPS instances or home labs. Passionate about Proxmox<br>
+**Automation & CI/CD:** Home Assistant, Node-RED, and basic JS development for fixing everyday issues
 
 
 # 💻 Tech Stack:
