@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡About Me
 Proxmox ❤️<br>
 
 **Frontend Magic:** Modern, responsive, and highly interactive web applications using **React** and **JavaScript**.<br>
